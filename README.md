@@ -4,4 +4,4 @@ This is the central repository where the slides will be shared of the sessions t
 
 BR,
 
-Jop, Jan, Stefan & Michel
+Pim, Jan, Stefan & Michel
